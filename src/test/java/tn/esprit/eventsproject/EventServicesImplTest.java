@@ -113,5 +113,4 @@ public class EventServicesImplTest {
         assertEquals(logistics1, result.get(0));
     }
 
-    // Add more tests for other methods as needed
 }
